@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "474991522317",
+    "firebase_url": "https://sewainapp-4b395.firebaseio.com",
+    "project_id": "sewainapp-4b395",
+    "storage_bucket": "sewainapp-4b395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474991522317:android:f441d91064191849",
+        "android_client_info": {
+          "package_name": "com.example.yogapermanatanaya.sewain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474991522317-kmf4qmrqr6am52brovv7eu91tetvi5i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNSblEArhzj5_AuUc2VZffM49t6iRSUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
